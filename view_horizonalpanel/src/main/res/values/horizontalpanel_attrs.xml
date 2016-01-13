@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HorizontalPanel">
+        <attr name="status">
+            <enum name="close" value="0"/>
+            <enum name="open" value="1"/>
+        </attr>
+        <attr name="content_percent" format="float"/>
+    </declare-styleable>
+
+</resources>
